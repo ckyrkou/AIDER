@@ -14,3 +14,9 @@ It is advised to further enhance the dataset that random augmentations are proba
 Snapshot of some of the images below:
 
 <img src="./images/AIDER.png" width="512">
+
+**This dataset is realesed for non commercial use only**
+
+## Please Cite
+
+** C.Kyrkou, T.Theocharides "Deep-Learning-Based Aerial Image Classification for Emergency Response Applications using Unmanned Aerial Vehicles", Computer Vision and Pattern Recognition Workshops,  3rd International Workshop on Computer Vision for UAVs (UAVision 2019)
