@@ -8,4 +8,6 @@ The aerial images of these disaster classes were collected from multiple sources
 
 It is advised to further enhance the dataset that random augmentations are probabilistically applied to each image prior to adding it to the batch for training. Specifically there are a number of possible transformations such as geometric (rotations, translations, horizontal axis mirroring, cropping and zooming), as well as image manipulations (illumination changes, color shifting, blurring, sharpening, and shadowing).
 
-<img src="./images/cnn.png" width="512">
+Snapshot of some of the images below:
+
+<img src="./images/AIDER.png" width="512">
