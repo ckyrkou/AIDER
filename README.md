@@ -11,7 +11,7 @@ It is advised to further enhance the dataset that random augmentations are proba
 
 Snapshot of some of the images below:
 
-<img src="./images/AIDER.png" width="512">
+<img src="./Figures/AIDER.png" width="512">
 
 
 
