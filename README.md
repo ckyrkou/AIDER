@@ -1,11 +1,6 @@
 # AIDER:  Aerial Image Database for Emergency Response Applications
 
 ## Overview
-**Notice**
-*UNDER CONSTRUCTION*
-*Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.*
-
-###### This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo]()
 
 The dataset construction involved manually collecting all images for four disaster events Fire/Smoke, Flood, Collapsed Building/Rubble, and for Traffic Accidents, as well as for normal case that does not signal the presence of a disaster.
 
@@ -18,6 +13,12 @@ Snapshot of some of the images below:
 <img src="./images/AIDER.png" width="512">
 
 **This dataset is released for non-commercial/academic use only**
+
+**Notice**
+*UNDER CONSTRUCTION*
+*Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.*
+
+###### This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo]()
 
 ## Citation Information
 
