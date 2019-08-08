@@ -19,4 +19,4 @@ Snapshot of some of the images below:
 
 ## Citation Information
 
-** C.Kyrkou, T.Theocharides "Deep-Learning-Based Aerial Image Classification for Emergency Response Applications using Unmanned Aerial Vehicles", Computer Vision and Pattern Recognition Workshops,  3rd International Workshop on Computer Vision for UAVs (UAVision 2019)
+** C.Kyrkou, T.Theocharides "Deep-Learning-Based Aerial Image Classification for Emergency Response Applications using Unmanned Aerial Vehicles", Computer Vision and Pattern Recognition Workshops,  3rd International Workshop on Computer Vision for UAVs (UAVision 2019), Long Beach, CA, 16-20 June, 2019 [pdf](http://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Kyrkou_Deep-Learning-Based_Aerial_Image_Classification_for_Emergency_Response_Applications_Using_Unmanned_CVPRW_2019_paper), [arxiv](https://arxiv.org/abs/1906.08716) 
