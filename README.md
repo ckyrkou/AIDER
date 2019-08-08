@@ -1,6 +1,7 @@
 # AIDER:  Aerial Image Database for Emergency Response Applications
 
 ## Overview
+*UNDER CONSTRUCTION*
 
 The dataset construction involved manually collecting all images for four disaster events Fire/Smoke, Flood, Collapsed Building/Rubble, and for Traffic Accidents, as well as for normal case that does not signal the presence of a disaster.
 
@@ -15,7 +16,6 @@ Snapshot of some of the images below:
 
 
 **Notes**
-*UNDER CONSTRUCTION*
 
 ###### Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.*
 
