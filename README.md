@@ -15,7 +15,7 @@ Snapshot of some of the images below:
 
 
 
-**Notes**
+## Notes
 
 ###### Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.
 ###### This dataset is released for non-commercial/academic use only under GPL-3.0-or-later 
