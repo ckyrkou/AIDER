@@ -15,7 +15,7 @@ Snapshot of some of the images below:
 
 <img src="./images/AIDER.png" width="512">
 
-**This dataset is realesed for non commercial use only**
+**This dataset is released for non-commercial/academic use only**
 
 ## Citation Information
 
