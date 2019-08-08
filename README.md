@@ -17,9 +17,9 @@ Snapshot of some of the images below:
 
 ## Notes
 
-###### Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.
-###### This dataset is released for non-commercial/academic use only under GPL-3.0-or-later 
-###### This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo]()
+1. Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.
+2. This dataset is released for non-commercial/academic use only under GPL-3.0-or-later 
+3. This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo]()
 
 
 ## Citation Information
