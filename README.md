@@ -12,13 +12,15 @@ Snapshot of some of the images below:
 
 <img src="./images/AIDER.png" width="512">
 
-**This dataset is released for non-commercial/academic use only**
 
-**Notice**
+
+**Notes**
 *UNDER CONSTRUCTION*
-*Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.*
+
+###### Preliminary Dataset: This Dataset is preliminary, an extented version will be uploaded soon.*
 
 ###### This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo]()
+###### This dataset is released for non-commercial/academic use only under GPL-3.0-or-later 
 
 ## Citation Information
 
