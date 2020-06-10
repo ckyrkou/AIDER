@@ -17,7 +17,7 @@ Snapshot of some of the images below:
 
 1. This is a subset of the original dataset with images that could be made openly available. 
 2. This dataset is released for non-commercial/academic. See the respective zenodo portal.
-3. This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo]()
+3. This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo](https://github.com/ckyrkou/EmergencyNet)
 
 ## Download the Dataset
 The dataset is hosted at the Zenodo portal in the following link:
