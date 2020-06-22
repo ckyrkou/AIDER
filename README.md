@@ -20,7 +20,8 @@ Snapshot of some of the images below:
 3. This repo containts only the AIDER dataset, for the deep convolutional neural network called EmergencyNet that is trained on this dataset plase see this [repo](https://github.com/ckyrkou/EmergencyNet)
 
 ## Download the Dataset
-The dataset is hosted at the Zenodo portal in the following link:
+The dataset is hosted at the Zenodo portal in this [link](https://zenodo.org/record/3888300#.XvCPQUUzaUk).
+
 
 
 ## Citation Information
