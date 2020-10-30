@@ -1,4 +1,4 @@
-<img src="https://lh4.googleusercontent.com/_hWqjOlWzQAkPkgNZAZr6p4KsCHUazyO5zTHcmi5fa1G-iohjwoJzndOwL3IEZ9sJZm8aC2pqO8llGiYyPZhO1LPWfZuhMza_M1lAvDgBxs6ccTK8uQ=w1280" width="256">
+[<img src="https://lh4.googleusercontent.com/_hWqjOlWzQAkPkgNZAZr6p4KsCHUazyO5zTHcmi5fa1G-iohjwoJzndOwL3IEZ9sJZm8aC2pqO8llGiYyPZhO1LPWfZuhMza_M1lAvDgBxs6ccTK8uQ=w1280" width="256" >](https://www.christoskyrkou.com/research-edge-vision-visual-ai)
 
 # AIDER:  Aerial Image Database for Emergency Response applications
 
